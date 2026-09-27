@@ -15,7 +15,7 @@ from telegram.ext import (
 # SETTINGS
 # =========================================================
 
-BOT_TOKEN = "8871401548:AAEkhpvVLWeBYzeZLBipq4zgu5JKKGL6PUA"
+BOT_TOKEN = "8871401548:AAErWEHZRlC05-2c1WHC_SsnBkyFFYV9Jqc"
 
 CHANNEL_USERNAME = "@KamaiKhoj"
 CHANNEL_LINK = "https://t.me/KamaiKhoj"
